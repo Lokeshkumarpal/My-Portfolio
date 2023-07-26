@@ -9,7 +9,7 @@ body {
   }
 }
   
-  @media (max-width: 480px) {
+@media (max-width: 720px) {
     body {
       font-size: 12px; /* Adjust font size for mobiles */
     }
